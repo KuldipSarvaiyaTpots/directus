@@ -1,0 +1,12 @@
+{
+  "name": "shivyog_rp_report_query",
+  "version": "1.0.0",
+  "description": "This package is used in Shivyog Razorpay Report generation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kuldip-Sarvaiya-Tpots",
+  "license": "ISC"
+}
